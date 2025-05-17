@@ -1,4 +1,3 @@
-//submitted by: FA23-BCS-069(ISHA ALI), FA23-BCS-200(VAHEEBAH FATIMA), FA23-BCS-171(ZAINAB ASLAM)
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
